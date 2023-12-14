@@ -1,5 +1,12 @@
 # @qiankunjs/shared
 
+## 0.0.1-rc.10
+
+### Patch Changes
+
+- 3e43a111: fix: optimize types and add a warning for preload
+- feb544f0: fix: dynamic append element should support for the same container between micro apps
+
 ## 0.0.1-rc.9
 
 ### Patch Changes

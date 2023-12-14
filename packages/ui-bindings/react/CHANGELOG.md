@@ -1,5 +1,15 @@
 # @qiankunjs/react
 
+## 0.0.1-rc.13
+
+### Patch Changes
+
+- Updated dependencies [3e43a111]
+- Updated dependencies [f09c1538]
+- Updated dependencies [feb544f0]
+  - qiankun@3.0.0-rc.16
+  - @qiankunjs/ui-shared@0.0.0
+
 ## 0.0.1-rc.12
 
 ### Patch Changes

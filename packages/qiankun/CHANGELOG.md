@@ -1,5 +1,20 @@
 # qiankun
 
+## 3.0.0-rc.16
+
+### Patch Changes
+
+- 3e43a111: fix: optimize types and add a warning for preload
+- f09c1538: feat: pass container with parameters rather than getter function
+- feb544f0: fix: dynamic append element should support for the same container between micro apps
+- Updated dependencies [3e43a111]
+- Updated dependencies [f09c1538]
+- Updated dependencies [feb544f0]
+- Updated dependencies [2e528c9d]
+  - @qiankunjs/shared@0.0.1-rc.10
+  - @qiankunjs/sandbox@0.0.1-rc.13
+  - @qiankunjs/loader@0.0.1-rc.16
+
 ## 3.0.0-rc.15
 
 ### Patch Changes
